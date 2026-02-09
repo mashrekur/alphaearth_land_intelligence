@@ -1,5 +1,5 @@
 # AlphaEarth Embedding Interpretability
-
+[![DOI](https://zenodo.org/badge/1153909403.svg)](https://doi.org/10.5281/zenodo.18566431)
 Analysis code for the paper:
 
 > **Physically Interpretable Satellite Foundation Model Embeddings Enable LLM-Based Land Surface Intelligence**  
